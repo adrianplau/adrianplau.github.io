@@ -9,3 +9,7 @@ div {
 h1 {
     color: rgb(196, 224, 58);
 }
+
+img {
+    width: 100%;    
+}
