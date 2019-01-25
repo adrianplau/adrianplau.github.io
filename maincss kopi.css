@@ -7,14 +7,13 @@ div {
 }
 
 h1 {
-    color: rgb(196, 224, 58);
+    color: black;
 }
 
 /*Front page image styling*/
 
-.image {
+image {
   display: block;
-  text-align: center;
   margin-left: auto;
   margin-right: auto;
   transition: .5s ease;
@@ -45,7 +44,7 @@ h1 {
 
 .text {
   background-color: powderblue;
-  color: white;
+  color: black;
   font-size: 16px;
   padding: 16px 32px;
 }
