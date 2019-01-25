@@ -12,6 +12,12 @@
                 <title>Ulu Kalpa</title>
                 <link rel="stylesheet" href="msscss.css" type="text/css"/>
             </head>
+            <body>
+            <!-- intro -->
+            <div>
+                <h1>Health, Medicine and Treatment in early modern North India</h1>
+                <h2>Early Hindi medicine manuscripts in the Wellcome Collection</h2>
+            </div>
             <!-- nav bar -->
             <div>
                 <ul>
@@ -21,13 +27,7 @@
                     <li style="float:right"><a href="contact.html">Contact</a></li>
                 </ul>
             </div>
-            <!-- intro -->
-            <div>
-                <h1>Health, Medicine and Treatment in early modern North India</h1>
-                <h2>Early Hindi medicine manuscripts in the Wellcome Collection</h2>
-            </div>
             <!-- text -->
-            <body>
                 <xsl:apply-templates select="//body"/>
             </body>         
         </html>
