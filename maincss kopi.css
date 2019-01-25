@@ -37,7 +37,7 @@ a {
   text-decoration: none;
 }
 
-active {
+a:active {
   background-color: #4CAF50;
 }
 
