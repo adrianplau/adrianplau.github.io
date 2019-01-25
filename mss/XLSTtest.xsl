@@ -12,6 +12,15 @@
                 <title>Ulu Kalpa</title>
                 <link rel="stylesheet" href="msscss.css" type="text/css"/>
             </head>
+            <!-- nav bar -->
+            <div>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="texts.html">Texts</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li style="float:right"><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
             <!-- intro -->
             <div>
                 <h1>Health, Medicine and Treatment in early modern North India</h1>
