@@ -21,10 +21,10 @@
             <!-- nav bar -->
             <div>
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="texts.html">Texts</a></li>
-                    <li><a href="about.html">About</a></li>
-                    <li style="float:right"><a href="contact.html">Contact</a></li>
+                    <li><a href="../index.html">Home</a></li>
+                    <li><a href="../texts.html">Texts</a></li>
+                    <li><a href="../about.html">About</a></li>
+                    <li style="float:right"><a href="../contact.html">Contact</a></li>
                 </ul>
             </div>
             <!-- text -->
