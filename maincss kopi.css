@@ -47,16 +47,6 @@ table, th, td {
     text-align: left;
 }
 
-/* unvisited link */
-a:link {
-  color: red;
-}
-
-/* visited link */
-a:visited {
-  color: green;
-}
-
 /* text styling */
 
 .text {
