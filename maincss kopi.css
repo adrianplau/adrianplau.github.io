@@ -56,3 +56,9 @@ a:link {
 a:visited {
   color: green;
 }
+
+/* text styling */
+
+.text {
+    text-align: left;
+}
