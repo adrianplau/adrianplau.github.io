@@ -52,3 +52,9 @@ table, th, td {
 .text {
     text-align: left;
 }
+
+/* about page image styling*/
+
+.aboutimage {
+    float: right;
+}
