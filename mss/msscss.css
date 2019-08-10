@@ -10,6 +10,12 @@ body {
     text-align: center;    
 }
 
+/* text styling */
+
+.text {
+    text-align: left;
+}
+
 /*Nav bar styling*/
 
 ul {
@@ -24,7 +30,7 @@ li {
   float: left;
 }
 
-a {
+#navbarlink {
   display: block;
   color: white;
   text-align: center;
@@ -32,6 +38,24 @@ a {
   text-decoration: none;
 }
 
-a:active {
+#navbarlink:active {
   background-color: #4CAF50;
+}
+
+/* For double columns in text*/
+
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
